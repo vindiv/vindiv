@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **vindiv/vindiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](images/scrivania-ufficio-vector-01.gif)
 
 <h1 align="center">Hi 👋, I'm Vincenzo</h1>
 <h3 align="center">A passionate developer from Italia</h3>
