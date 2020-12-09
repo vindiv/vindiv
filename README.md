@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 ![](images/scrivania-ufficio-vector-02.gif)
 
 <h1 align="center">Hi 👋, I'm Vincenzo</h1>
-<h3 align="center">A passionate developer from Italia 🇮🇹</h3>
+<h3 align="center">A passionate developer from Italia</h3>
 
 :briefcase: @ [ArtProject](https://www.artproject.it)
 
 
 My life riassumed in code:
 ```php
-if( ☕.isEmpty()) {
+if(☕.isEmpty()) {
   keepCoding();
  }
  else {
