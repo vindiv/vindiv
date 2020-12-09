@@ -22,6 +22,17 @@ Here are some ideas to get you started:
 
 :briefcase: @ [ArtProject](https://www.artproject.it)
 
+My life riassumed in code:
+```php
+if(:coffee:.isEmpty()) {
+  keepCoding();
+ }
+ else {
+  :coffee:.fill();
+ }
+
+```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vindiv&label=Profile%20views&color=0e75b6&style=flat" alt="vindiv" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vindiv" alt="vindiv" /></a> </p>-->
