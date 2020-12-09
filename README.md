@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 My life riassumed in code:
 ```php
-if(:coffee:.isEmpty()) {
+if( :coffee: .isEmpty()) {
   keepCoding();
  }
  else {
-  :coffee:.fill();
+  :coffee: .fill();
  }
 
 ```
