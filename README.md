@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 :briefcase: @ [ArtProject](https://www.artproject.it)
 
+:coffee:
+
 My life riassumed in code:
 ```php
 if( :coffee: .isEmpty()) {
