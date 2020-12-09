@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 My life riassumed in code:
 ```php
-if( :coffee: .isEmpty()) {
+if( U+2615.isEmpty()) {
   keepCoding();
  }
  else {
