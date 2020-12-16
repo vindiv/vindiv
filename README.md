@@ -1,3 +1,15 @@
+<script>
+  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    // dark mode
+}
+
+
+// to watch for changes:
+window.matchMedia('(prefers-color-scheme: dark)').addListener(function (e) {
+  console.log(`changed to ${e.matches ? "dark" : "light"} mode`)
+});
+ </script>
+
 <!-- ### Hi there 👋 -->
 
 <!--
