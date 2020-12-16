@@ -1,5 +1,3 @@
-https://gist.github.com/DesignFront/4df70ca40f7a077ebbc8b4c39b4c943c
-
 <!-- ### Hi there 👋 -->
 
 <!--
