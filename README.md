@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 $vindiv = new Dev();
 $vindiv->role = 'Web Software Engineer';
 $vindiv->nationality = '🇮🇹';
-$vindiv->work_place = [ArtProject.it](https://www.artproject.it);
+$vindiv->work_place = '[ArtProject.it](https://www.artproject.it)';
 $vindiv->knows = ['PHP', 'html', 'CSS', 'Javascript', 'Laravel', 'SQL', 'vector graphic', 'raster graphic', 'and more...'];
 $vindiv->tools = ['VS Code', 'Postman', 'Sequel Ace', 'TablePlus', 'Termius', 'Firefox DE', 'Photoshop', 'Illustrator', 'MacOS Catalina', 'PopOs'];
 $vindiv->loves = ['gym', 'reading', 'star wars', 'tv series', 'drawing', '🍮', '🐱'];
