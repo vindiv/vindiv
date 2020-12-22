@@ -20,16 +20,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Vincenzo</h1>
 <h3 align="center">A passionate developer from Italia</h3>
 
-:briefcase: @ [ArtProject](https://www.artproject.it)
-
-
 
 ```php
 <?PHP
 $vindiv = new Dev();
 $vindiv->role = 'Web Software Engineer';
 $vindiv->nationality = '🇮🇹';
-$vindiv->work_place = 'ArtProject.it';
+$vindiv->work_place = '[ArtProject.it](https://www.artproject.it)';
 $vindiv->knows = ['PHP', 'html', 'CSS', 'Javascript', 'Laravel', 'SQL', 'vector graphic', 'raster graphic', 'and more...'];
 $vindiv->tools = ['VS Code', 'Postman', 'Sequel Ace', 'TablePlus', 'Termius', 'Firefox DE', 'Photoshop', 'Illustrator', 'MacOS Catalina', 'PopOs'];
 $vindiv->loves = ['gym', 'reading', 'star wars', 'tv series', 'drawing', '🍮', '🐱'];
